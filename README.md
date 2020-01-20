@@ -8,3 +8,6 @@ Ejemplos de estruturas de datos en C:
   - Arbol Binario - podadora                                                                                                        
   - Monticulo                                                                                                                   
   - y algunos ejercicios                                                
+
+## Para compilar: make all
+## Para ejecutar: make play
