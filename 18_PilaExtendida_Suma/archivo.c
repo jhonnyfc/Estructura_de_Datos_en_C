@@ -51,19 +51,6 @@ int main (){
 		borrar(&myStack2,i);
 	}
 
-	/*
-	printf("\n");
-	while (!esNulaPila(myStack1)){
-		printf("%d",cima(myStack1));
-		desapilar(&myStack1);
-	}
-	printf(" + ");
-	while (!esNulaPila(myStack2)){
-		printf("%d",cima(myStack2));
-		desapilar(&myStack2);
-	}
-	printf("= ");s*/
-
 	printf("\nLa suma es: %d \n",sumaStacks(&myStack1,&myStack2) );
 	return 0;
 }
